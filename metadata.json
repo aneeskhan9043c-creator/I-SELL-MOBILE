@@ -1,0 +1,6 @@
+{
+  "name": "Header Navigation Component",
+  "description": "A responsive shadcn/ui header navigation component with mobile drawer, scroll detection, and button variants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
